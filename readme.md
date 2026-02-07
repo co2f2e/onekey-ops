@@ -1,4 +1,4 @@
 ```bash
-curl -fsSL https://raw.githubusercontent.com/co2f2e/onekey-ops/main/server_init.py 
+curl -fsSL https://raw.githubusercontent.com/co2f2e/onekey-ops/main/server_init.py -o server_init.py
 sudo python3 server_init.py
 ```
