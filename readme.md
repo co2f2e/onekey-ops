@@ -1,9 +1,12 @@
-* 使用方式
+# onekey-ops
+
+## 使用方式
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/co2f2e/onekey-ops/master/server_init.py -o server_init.py
 sudo python3 server_init.py
 ```
-* 功能
+## 功能
 
 | 序号 | 功能             |
 |------|----------------|
@@ -21,5 +24,6 @@ sudo python3 server_init.py
 | 12   | 修改当前用户登录密码     |
 | 0    | 退出             |
 
-* 适用环境
+## 适用环境
+
 Ubuntu / Debian 系列
