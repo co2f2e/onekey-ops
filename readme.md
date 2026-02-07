@@ -20,3 +20,6 @@ sudo python3 server_init.py
 | 11   | 自动优先选择 IPv6 连接 |
 | 12   | 修改当前用户登录密码     |
 | 0    | 退出             |
+
+* 适用环境
+Ubuntu / Debian 系列
